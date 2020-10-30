@@ -3,7 +3,6 @@ Mobile Twitch.tv Interface
 </h1>
 
 ## Techs
-
 - [x] React.js
 - [x] Styled Components
 - [x] TypeScript
